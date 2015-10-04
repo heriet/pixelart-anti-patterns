@@ -1,0 +1,7 @@
+= Pixel Art Anti Patterns
+
+== License
+
+All content is licensed under the link:http://creativecommons.org/licenses/by-nc/4.0/[Creative Commons Attribution-NonCommercial 4.0].
+
+Copyright (c) heriet.

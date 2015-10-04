@@ -1,0 +1,12 @@
+{
+    "plugins": [
+      "katex",
+      "image-captions"
+    ],
+    "pluginsConfig": {
+        "image-captions": {
+            "caption": "▲ _CAPTION_",
+            "align": "left"
+        }
+    }
+}

@@ -1,0 +1,9 @@
+= ドット絵アンチパターン
+
+本書はドット絵のアンチパターンについて解説する電子書籍です。
+
+== ライセンス
+
+本書は link:http://creativecommons.org/licenses/by-nc/4.0/[Creative Commons Attribution-NonCommercial 4.0] の下で利用可能です。
+
+Copyright (c) heriet.
