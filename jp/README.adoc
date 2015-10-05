@@ -1,6 +1,11 @@
 = ドット絵アンチパターン
 
-本書はドット絵のアンチパターンについて解説する電子書籍です。
+本書はドット絵のアンチパターンについて解説する電子書籍です。link:https://www.gitbook.com/book/heriet/pixelart-anti-patterns[GitBook]により、Webブラウザ上またはpdf/epub/mobi形式で読むことができます。
+
+ドット絵アンチパターンとは、ドット絵初心者がよく陥ってしまう悪い描き方を類型化したものです。（アンチエイリアスのパターンではありません）
+
+執筆はlink:https://github.com/heriet/pixelart-anti-patterns[GitHub]上にて行われています。
+ご意見などありましたら、GitHubのissueまたはlink:https://twitter.com/heriet[@heriet]まで。
 
 == ライセンス
 
