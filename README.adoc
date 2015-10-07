@@ -3,8 +3,6 @@
 This is the source for book "Pixel Art Anti Patterns".
 The latest version of this book can be fornd link:https://www.gitbook.com/book/heriet/pixelart-anti-patterns[GitBook].
 
-https://github.com/heriet/pixelart-anti-patterns
-
 == License
 
 All content is licensed under the link:http://creativecommons.org/licenses/by-nc/4.0/[Creative Commons Attribution-NonCommercial 4.0].
