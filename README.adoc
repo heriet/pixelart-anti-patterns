@@ -1,7 +1,7 @@
 = Pixel Art Anti Patterns
 
 This is the source for book "Pixel Art Anti Patterns".
-The latest version of this book can be fornd link:https://www.gitbook.com/book/heriet/pixelart-anti-patterns[GitBook].
+The latest version of this book can be found link:https://www.gitbook.com/book/heriet/pixelart-anti-patterns[GitBook].
 
 == License
 
