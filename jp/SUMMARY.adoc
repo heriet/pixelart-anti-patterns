@@ -8,7 +8,7 @@
 . link:pixel-drawing-anti-patterns/README.adoc[ピクセル描画のアンチパターン]
 .. link:pixel-drawing-anti-patterns/uneven-steps.adoc[ふぞろいの段差たち]
 .. link:pixel-drawing-anti-patterns/snake-curve.adoc[ヘビゲーム]
-.. link:pixel-drawing-anti-patterns/fat-line.adoc[デブ線]
+.. link:pixel-drawing-anti-patterns/pushy-initial-line.adoc[主張しすぎ主線]
 .. link:pixel-drawing-anti-patterns/lonely-pixel.adoc[孤島のピクセル]
 .. link:pixel-drawing-anti-patterns/pixel-impossible.adoc[ピクセルインポッシブル]
 . link:palette-anti-patterns/README.adoc[パレットのアンチパターン]
